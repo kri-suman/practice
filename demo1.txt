@@ -1,0 +1,2 @@
+hello,
+another text file which contain one list
